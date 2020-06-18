@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "name": 122, "title": "Post 1" },
-    { "name": 2, "title": "Post 2" },
-    { "name": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "clients": [
+    { "name": "OLEG", "order": "human head" },
+    { "name": "Igor", "order": "BMW car" },
+    { "name": "Raptalia", "order": "love of god" }
+  ]
 }
